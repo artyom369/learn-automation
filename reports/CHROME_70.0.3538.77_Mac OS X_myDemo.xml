@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites errors="0"
+            failures="1"
+            tests="1">
+
+  <testsuite name="myDemo"
+    errors="0" failures="1" hostname="" id="" package="myDemo" skipped="0"
+    tests="1" time="13.22" timestamp="Tue, 13 Nov 2018 13:22:11 GMT">
+  
+    <testcase name="Demo test Google" classname="myDemo" time="13.22" assertions="2">
+
+      <failure message="Timed out while waiting for element &lt;button[name=btnG]&gt; to be visible for 1000 milliseconds.">    at Object.Demo test Google (/Users/webarksystem/Desktop/learnAutomation/tests/myDemo.js:7:10)
+    at _combinedTickCallback (internal/process/next_tick.js:131:7)</failure>
+
+    
+    </testcase>
+  
+
+  
+
+  
+  </testsuite>
+</testsuites>

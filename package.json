@@ -1,0 +1,14 @@
+{
+  "name": "learnautomation",
+  "version": "1.0.0",
+  "description": "To learn automation Testing.",
+  "main": "nightwatch.js",
+  "scripts": {
+    "test": ""
+  },
+  "author": "Artyom",
+  "license": "ISC",
+  "dependencies": {
+    "nightwatch": "^0.9.21"
+  }
+}
